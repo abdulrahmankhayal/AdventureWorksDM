@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AdvenutreWorksDM_SSAS", "AdvenutreWorksDM_SSAS\AdvenutreWorksDM_SSAS.dwproj", "{2D4741EE-D94C-4DDF-9DD5-382D03944590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4741EE-D94C-4DDF-9DD5-382D03944590}.Development|Default.ActiveCfg = Development
+		{2D4741EE-D94C-4DDF-9DD5-382D03944590}.Development|Default.Build.0 = Development
+		{2D4741EE-D94C-4DDF-9DD5-382D03944590}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2525CC-6E38-457A-A547-3D4DC740DB51}
+	EndGlobalSection
+EndGlobal
