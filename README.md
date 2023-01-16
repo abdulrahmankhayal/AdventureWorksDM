@@ -18,7 +18,10 @@ dimensional modeling of [AdventureWorks2017](https://learn.microsoft.com/en-us/s
 4. FactSalesOrder: This package loads data into the FactSalesOrder fact table.
 
 &emsp;![](https://github.com/abdulrahmankhayal/AdventureWorksDM/blob/main/Imgs/FactSalesOrder.png)
- 
+
+## Analysis
+Multidimensional OLAP CUBE Project See [AdvenutreWorksDM_SSAS](./AdvenutreWorksDM_SSAS)
+
 ## Reporting
 Overview Dashboard for sales and sales quantity using Tableau could be found [here](https://public.tableau.com/app/profile/abdulrahman.khayyal/viz/AdventureWorksDashboard_16724781747890/AdventureWorksOverview)
 ![AdventureWorksDashboard](https://github.com/abdulrahmankhayal/AdventureWorksDM/blob/main/Imgs/AdventureWorksDashboard.png)
